@@ -5,3 +5,10 @@ If a quine satisfies this condition, it's output can be redirected to an output 
 output file will have no difference from the code file. An exention of this is that the output file
 can be run, to create another identical output file, and this new output can be run... This can
 go on infinitely.
+
+## Goals:
+
+- [X] Python
+- [ ] C
+- [ ] C++
+- [ ] Java
