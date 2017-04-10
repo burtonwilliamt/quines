@@ -6,6 +6,6 @@ code as its only output." Interestingly, the output file itself can be run, to c
 output file that can be run...ad infinitum.
 
 - [X] Python
-- [ ] C
+- [X] C
 - [ ] C++
 - [ ] Java
